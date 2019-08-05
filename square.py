@@ -1,5 +1,5 @@
 # EdCoWNY STEAM (08/2019) - turtle demo (by Eric Bray, ebray@gow.org)
-# square.py
+# File name: square.py
 
 import turtle
 
